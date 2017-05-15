@@ -1,0 +1,6 @@
+subroutine read
+implicit none
+int a,b,i,j
+character fname,file
+
+open ()
